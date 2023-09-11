@@ -1,0 +1,8 @@
+                                                                                          Male  Female
+Total number of GvHD cases                                        104.00   70.00
+Number of deaths                                                          24.00    7.00
+Age at first cancer diagnosis for deceased                 57.95   52.26
+Average age of death                                                    63.23   59.41
+Decile of all                                                                    15.00   15.39
+Decile of the deceased                                                 14.50   17.68
+Number of deceased individuals with leukemia        10.00    1.00
